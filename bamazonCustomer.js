@@ -64,5 +64,5 @@ function checkQuantity(results, no){
 		}
 };
 function displayTotal(){
-	console.log(total);
+	console.log("Your total price: " + total);
 };
